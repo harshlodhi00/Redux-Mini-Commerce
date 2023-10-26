@@ -60,6 +60,8 @@ const Cart = () => {
       <h1 className=" text-2xl font-semibold">
         Total Price: <span className=" text-red-500 font-bold ">$ {total}</span>
       </h1>
+
+      
     </div>
   );
 };
